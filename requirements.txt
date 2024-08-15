@@ -4,4 +4,4 @@ uvicorn
 fastapi
 numpy
 pandas
-sklearn
+scikit-learn
