@@ -1,6 +1,4 @@
 nltk
-re
-os
 joblib
 uvicorn
 fastapi
