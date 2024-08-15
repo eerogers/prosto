@@ -1,10 +1,6 @@
-nltk.tokenize
 nltk
-nltk.corpus
-nltk.stem
 re
 os
-os.path
 joblib
 uvicorn
 fastapi
