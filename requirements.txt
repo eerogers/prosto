@@ -1,4 +1,3 @@
-string
 nltk.tokenize
 nltk
 nltk.corpus
