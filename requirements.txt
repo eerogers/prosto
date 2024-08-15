@@ -2,3 +2,6 @@ nltk
 joblib
 uvicorn
 fastapi
+numpy
+pandas
+sklearn
